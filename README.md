@@ -63,6 +63,16 @@ You can check out my full portfolio here:
 
 ---
 
+## 🎮 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurMonsores001/ArthurMonsores001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurMonsores001/ArthurMonsores001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArthurMonsores001/ArthurMonsores001/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📬 Contact / Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurmonsores-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arthur-monsores-5883061a1/)

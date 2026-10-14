@@ -25,7 +25,6 @@ Currently working as a developer at Interligados Soluções em Tecnologia (Rio d
 ## 🛠️ Tech Stack
 
 <p align="left">
-## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
